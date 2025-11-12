@@ -1,1 +1,1 @@
-web: python SCRIPT/ELIAS.py
+web: python -m SCRIPT.ELIAS
