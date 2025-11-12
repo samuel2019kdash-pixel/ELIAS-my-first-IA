@@ -2,3 +2,4 @@ Flask>=2.0
 openai>=2.0
 python-dotenv
 markdown
+gunicorn
