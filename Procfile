@@ -1,1 +1,1 @@
-web: gunicorn SCRIPT.ELIAS:app
+web: python SCRIPT/ELIAS.py
